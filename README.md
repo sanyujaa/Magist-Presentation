@@ -1,5 +1,5 @@
 ### Hi There 👋 
-### WELCOM TO MAGIST PRESENTATION
+### WELCOME TO MAGIST PRESENTATION
 
 ### About Me
 I am Sanyuja and currently I am studying Data Analytics in WBS Coding school.
